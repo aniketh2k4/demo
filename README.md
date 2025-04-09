@@ -7,4 +7,6 @@ HTML
 <br>
 CSS
 <br>
+JavaScript
+<br>
 Author - JA
